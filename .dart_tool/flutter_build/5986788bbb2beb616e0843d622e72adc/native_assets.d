@@ -1,1 +1,0 @@
- /Users/klausgreinerfiorini/Documents/development/pixel_adventure/.dart_tool/flutter_build/5986788bbb2beb616e0843d622e72adc/native_assets.yaml: 
